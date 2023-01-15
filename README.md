@@ -95,7 +95,7 @@ impl<T1, U1> Mixuppable<T1, U1> for Point<T1, U1> {
 
 *Can we still claim that Rust doesn't support HKTs, in practice?*
 
-## Under the hood
+## ~~Under the hood~~ [obsolete]
 
 The implementation of `implHKT1` is trivial:
 
